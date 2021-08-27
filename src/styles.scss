@@ -1,0 +1,13 @@
+.outer-wrapper{
+    width: 100%;
+    // border: 1px solid red;
+    .wrapper{
+        position: relative;
+        box-sizing: border-box;
+        width: 1440px;
+        height: 5944px;   
+        margin: auto;
+        background: #F5F5F5;
+        padding:20px 49px;
+    }
+}

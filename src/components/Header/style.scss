@@ -1,0 +1,35 @@
+.header{
+    height: 37px;
+    width: 1289px;
+    top:37px;
+    border-radius: 0px;
+    background: #F5F5F5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .logo{
+    } 
+    .navlink{
+        >a{
+            padding-left: 10px;
+            font-family: Neue Haas Grotesk Display Pro;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24.8668px;
+            line-height: 28px;
+            color: #000000;
+            text-decoration: none;
+        }
+        >line{
+            width: 70px;
+            height: 0px;
+            left: 983px;
+            top: 74px;
+            border: 2px solid #000000;
+        }
+    }
+}
+
+
+
+
